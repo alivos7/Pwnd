@@ -5,8 +5,8 @@
 ver=4.3
 clear
 echo "==================================================="
-echo "              Autho Root V1
-echo "                By Demon King
+echo "              Auto Root V1
+echo "                By Demon Alivos
 echo "==================================================="
 checkroot() {
 if [ $(id -u) == 0 ]; then
@@ -505,7 +505,7 @@ echo -e "
            app | for apple macos all
            all | for kernel 2.6,3,4 bsd & app all
            Gw saranin pake yang all
-           by Demon King
+           by Alivos7
            $otp
 " 
 ker=$(uname -r)
